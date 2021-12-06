@@ -1,0 +1,15 @@
+br/unesp/rc/springjpa/entidade/mapeador/FisicaMapeador.class
+br/unesp/rc/springjpa/entidade/Acesso.class
+br/unesp/rc/springjpa/recurso/FisicaRecurso.class
+br/unesp/rc/springjpa/entidade/Juridica.class
+br/unesp/rc/springjpa/entidade/Endereco.class
+br/unesp/rc/springjpa/dto/EnderecoDTO.class
+br/unesp/rc/springjpa/serviço/FisicaServiço.class
+br/unesp/rc/springjpa/SpringjpaApplication.class
+br/unesp/rc/springjpa/entidade/Pessoa.class
+br/unesp/rc/springjpa/repositório/FisicaRepositorio.class
+br/unesp/rc/springjpa/entidade/Fisica.class
+br/unesp/rc/springjpa/dto/assembler/FisicaAssembler.class
+br/unesp/rc/springjpa/dto/FisicaDTO.class
+br/unesp/rc/springjpa/entidade/Contato.class
+br/unesp/rc/springjpa/utilidade/GeradorInstância.class

@@ -1,0 +1,15 @@
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/entidade/Acesso.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/entidade/mapeador/FisicaMapeador.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/entidade/Contato.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/entidade/Juridica.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/entidade/Endereco.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/SpringjpaApplication.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/dto/assembler/FisicaAssembler.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/dto/FisicaDTO.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/entidade/Fisica.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/recurso/FisicaRecurso.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/serviço/FisicaServiço.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/entidade/Pessoa.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/repositório/FisicaRepositorio.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/dto/EnderecoDTO.java
+/home/marcos/Documentos/NetBeansProjects/T4DEV/springjpa_restful/src/main/java/br/unesp/rc/springjpa/utilidade/GeradorInstância.java
